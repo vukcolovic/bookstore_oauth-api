@@ -2,18 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e090ffc8-84a3-4e70-8003-caf608b256f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/domain/users/user.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/repository/rest/users_repository.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/repository/rest/users_repository_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/access_token/access_token_service.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/application.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/application.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/client/cassandra/cassandra_db.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/cassandra/cassandra_db.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/domain/access_token/access_token.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/domain/access_token/access_token.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/domain/access_token/service.go" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/http/http_access_token.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/http/http_access_token.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/repository/db/db_repository.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/repository/db/db_repository.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/rest/users_repository.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/repository/rest/users_repository.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/rest/users_repository_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/repository/rest/users_repository_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/access_token/access_token_service.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/access_token/access_token_service.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/errors/errors.go" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +40,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bookstore_oauth-go" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
